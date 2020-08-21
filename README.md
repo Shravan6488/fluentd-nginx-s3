@@ -7,12 +7,13 @@ Before you execute the commands please make sure the AWS credentials are configu
 AWS Account
 AWS Access key and secret key
 Terraform > ~0.11 
-Terraform [Installation] (https://learn.hashicorp.com/tutorials/terraform/install-cli).
+[Installation](https://learn.hashicorp.com/tutorials/terraform/install-cli).
 aws-cli 
 [Installation](https://docs.aws.amazon.com/cli/latest/userguide/install-linux.html).
 docker-compose
 [Installation](https://docs.docker.com/compose/install/)
 ```
+
 Once the above installed in your local depends on your machine Type please configure AWS credentials with below commands
 ```
 aws configure
