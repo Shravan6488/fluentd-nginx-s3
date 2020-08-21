@@ -31,7 +31,7 @@ terraform apply
 ```
 The above will spin up the S3 bucket you can change the bucket name in main.tf file if you wanted to
 
-Before you start to run docker commands you need to have .env file in place and update the aws access key,seceret key and bucketname which you have created earlier
+Before you start to run docker commands you need to have .env file in place and update the aws access key,seceret key and bucketname with your values
 ```
 cd fluentd-nginx-s3
 cat > .env
