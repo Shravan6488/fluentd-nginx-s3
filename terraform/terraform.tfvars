@@ -1,0 +1,1 @@
+aws_profile = "$HOME/.aws/credentials"
