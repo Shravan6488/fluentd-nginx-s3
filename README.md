@@ -19,6 +19,8 @@ Once the above installed in your local depends on your machine Type please confi
 aws configure
 AWS_ACCESS_KEY_ID=xxxx
 AWS_SECRETE_KEY=xxx
+
+change the profile name to Testing from default in the ~/aws/credentials file
 ```
 Once the credentials configured execute below commands
 
